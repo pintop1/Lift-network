@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "982363688562",
+    "firebase_url": "https://liftnetwork-32412.firebaseio.com",
+    "project_id": "liftnetwork-32412",
+    "storage_bucket": "liftnetwork-32412.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:982363688562:android:2bbee593eacf50df9ffceb",
+        "android_client_info": {
+          "package_name": "d.pintoptech.liftnetwork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "982363688562-hju5a9m2bnokf1p696mhn3c4nh6b54er.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "d.pintoptech.liftnetwork",
+            "certificate_hash": "00853f07ee69c60e14b5a3077b45e28a4507e02e"
+          }
+        },
+        {
+          "client_id": "982363688562-e2knq60ffqoof9bf8inaprn9e7m7qh4q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDd0-3KR8qYS3jqsLBmUq7BLDSD_cZb74"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "982363688562-ksiidemedbguk1p116iqhabk51ev4g8u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "982363688562-m8cske4cs3m3efhbcuado9n9hfejkhgu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "d.pintoptech.liftnetwork.LiftNetwork"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

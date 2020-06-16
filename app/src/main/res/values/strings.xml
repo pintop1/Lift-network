@@ -1,0 +1,181 @@
+<resources>
+    <string name="app_name">LIFT NETWORK</string>
+    <string name="app_name_single">LIFT</string>
+    <string name="google">Connect with Google</string>
+    <string name="facebook">Connect with Facebook</string>
+
+    <string name="register">Sign up</string>
+    <string name="login">Sign in</string>
+    <string name="name">Name</string>
+    <string name="birthday">Birthday</string>
+    <string name="phone">Phone number</string>
+    <string name="about_me">About me</string>
+    <string name="help_with">What do you need help with?</string>
+    <string name="terms">By tapping Sign in, you agree with our Terms of Service and Privacy Policy</string>
+    <string name="trouble_login">Trouble Logging in?</string>
+    <string name="number_is">My number is</string>
+    <string name="phone_number">Phone number</string>
+    <string name="changed_phone">Changed your phone number?</string>
+    <string name="loginByEmail">LOGIN WITH EMAIL</string>
+    <string name="continueBtn">Continue</string>
+    <string name="code_is">My code is</string>
+    <string name="resend">RESEND</string>
+    <string name="got_it">I got it</string>
+    <string name="email">Email address</string>
+    <string name="my_email_is">My email is</string>
+    <string name="my_name_is">My name is</string>
+    <string name="month">MM</string>
+    <string name="day">DD</string>
+    <string name="year">YYYY</string>
+    <string name="slash"> / </string>
+    <string name="my_dob_is">My birthday is</string>
+    <string name="my_address_is">My address is</string>
+    <string name="address">House address</string>
+    <string name="city">City</string>
+    <string name="state">State</string>
+    <string name="country">Country</string>
+    <string name="a_sponsor">a sponsor</string>
+    <string name="a_beneficiary">a beneficiary</string>
+    <string name="i_am">I\'m</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main_screen">MainScreen</string>
+    <string name="title_home">Home</string>
+    <string name="title_likes">Helps</string>
+    <string name="title_chat">Chat</string>
+    <string name="title_support">Support</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_activity_main_screen_sponsor">MainScreenSponsor</string>
+
+    <!-- icons -->
+    <string name="facebook_icon">&#xea9a;</string>
+    <string name="google_icon">&#xe99d;</string>
+    <string name="edit_icon">&#xe9b8;</string>
+    <string name="request_icon">&#xe93e;</string>
+    <string name="visitor_icon">&#xeac3;</string>
+    <string name="support_icon">&#xe9d6;</string>
+    <string name="chat_icon">&#xe909;</string>
+    <string name="settings_icon">&#xe92d;</string>
+    <string name="profile_icon">&#xe9a4;</string>
+    <string name="photo_icon">&#xeac4;</string>
+    <string name="logout_icon">&#xea42;</string>
+    <string name="crown">&#xe9ab;</string>
+    <string name="search_icon">&#xe910;</string>
+    <string name="visitor_icon_list">&#xeac7;</string>
+    <string name="back_icon">&#xea44;</string>
+    <string name="reload_icon">&#xe90d;</string>
+    <string name="close_icon">&#xe951;</string>
+    <string name="heart_icon">&#xe93e;</string>
+    <string name="handshake_icon">&#xe972;</string>
+    <string name="open_icon">&#xE96F;</string>
+    <string name="age_icon">&#xe9ee;</string>
+    <string name="menu_icon">&#xeab8;</string>
+    <string name="warning_icon">&#xe929;</string>
+    <string name="dot_icon">&#xea1e;</string>
+    <string name="filter_icon">&#xE962;</string>
+
+    <string name="facebook_app_id">2296388783985689</string>
+    <string name="fb_login_protocol_scheme">fb2296388783985689</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_activity_main_page_sponsor">MainPageSponsor</string>
+
+    <string name="visitors">VISITORS</string>
+    <string name="requests">REQUESTS</string>
+    <string name="accepted">ACCEPTED</string>
+
+    <string name="pending">Pending requests</string>
+    <string name="acceptedR">Accepted requests</string>
+    <string name="visitorsR">Visitors</string>
+    <string name="support">Support</string>
+    <string name="settings">Settings</string>
+    <string name="profile">Profile</string>
+    <string name="photos">Photos</string>
+    <string name="logout">Logout</string>
+
+    <string name="search">Search...</string>
+
+    <string name="dots">&#8942;</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="done">Done</string>
+    <string name="one">1</string>
+    <string name="two">2</string>
+    <string name="three">3</string>
+    <string name="four">4</string>
+    <string name="five">5</string>
+    <string name="six">6</string>
+
+
+    <string name="customerly_app_id">cf188f79</string>
+    <string name="helped">HELPED</string>
+    <string name="discover">Discover</string>
+    <string name="reload">Reload</string>
+    <string name="no_data">We could not load any data at the moment. Please try again later.</string>
+    <string name="no_data2">No data was found for your account.</string>
+    <string name="helps">Help rendered</string>
+    <string name="channel_id">LiftChannel</string>
+    <string-array name="categories">
+        <item>Widow</item>
+        <item>Student</item>
+        <item>Partnership</item>
+        <item>Scholarship</item>
+        <item>Investment</item>
+    </string-array>
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+    <string name="category">Category</string>
+    <string name="gender">Gender</string>
+    <string-array name="occupations">
+        <item>Student</item>
+        <item>Unemployed</item>
+        <item>Private Sector</item>
+        <item>Public Sector</item>
+        <item>Self-employed</item>
+    </string-array>
+    <string name="occupation">Occupation</string>
+    <string name="i_need">I need help with</string>
+    <string name="i_want">How do you wish to help</string>
+    <string name="helping_with">I want to help by doing the following </string>
+    <string name="help_now">Help now</string>
+    <string-array name="sortBy">
+        <item>Sort By</item>
+        <item>Gender</item>
+        <item>Occupation</item>
+        <item>Category</item>
+        <item>Age range</item>
+    </string-array>
+    <string name="filter">Filters</string>
+    <string name="messages">Messages</string>
+    <string name="type_message">Type Message....</string>
+    <string name="default_notification_channel_id">LiftNetweork2</string>
+
+    <string name="chat">Chat</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_gender">Select Gender</string>
+    <string name="select_occupation">Select Occupation</string>
+    <string-array name="categories_filter">
+        <item>Select Category</item>
+        <item>Widow</item>
+        <item>Student</item>
+        <item>Partnership</item>
+        <item>Scholarship</item>
+        <item>Investment</item>
+    </string-array>
+    <string-array name="genders_filter">
+        <item>Select Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+        <item>Others</item>
+    </string-array>
+    <string-array name="occupations_filter">
+        <item>Select Occupation</item>
+        <item>Student</item>
+        <item>Unemployed</item>
+        <item>Private Sector</item>
+        <item>Public Sector</item>
+        <item>Self-employed</item>
+    </string-array>
+</resources>
